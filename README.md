@@ -17,9 +17,9 @@ We'll also look into other setup information that is needed in Python if you wan
 
 ### The developer / computer dilemma
 
-We've seen in thr previous dev padawan session, that the same code might not be running in the same wayx on every computer. Depending on the operating system (MS Windows, Mac OS, Linux) and depending what kind of software you have installed (e.g. python 2.x or 3.x) the code might need to be changed slightly. Even worse, there might be also a need to have additional packages installed that are related to a specific software (e.g. a python package to create PPTX slides).
+We've seen in thr previous dev padawan session, that the same code might not be running in the same way on every computer. Depending on the operating system (MS Windows, Mac OS, Linux) and depending what kind of software you have installed (e.g. python 2.x or 3.x), the code might need to be changed slightly. Even worse, there might be also a need to have additional packages installed that are related to a specific software (e.g. a python package to create PPTX slides).
 
-As a developer who is developing just for fun, this might not be a big issue. You might even learn a lot more through such problems and you become a better developer. But as a professional developer you want to concentrate on your code and to make it run quickly. Ideally completly independet of the setup of a computer. That's the reason why virtual machines have been developed a while back.
+As a developer who is developing just for fun, this might not be a big issue. You might even learn a lot more through such problems and you become a better developer. But as a professional developer you want to concentrate on your code and to make it run quickly. Ideally, completly independet of the setup of a computer. That's the reason why virtual machines have been developed a while back.
 
 ### Virtual machines
 
